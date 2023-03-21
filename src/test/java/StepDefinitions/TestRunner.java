@@ -15,6 +15,7 @@ import io.cucumber.junit.Cucumber;
   monochrome = true,
   plugin = {"pretty", "html:target/HtmlReports/HtmlReports.html","json:target/JsonReports/Report.json","junit:target/JunitReports/Report.xml"}
  // plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}
+//Jai Maharastra
 )
 
 public class TestRunner {
