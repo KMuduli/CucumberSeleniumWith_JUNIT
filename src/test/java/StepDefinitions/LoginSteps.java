@@ -57,7 +57,7 @@ public class LoginSteps {
 		System.out.println("Step - click on login button");
 		Thread.sleep(1000);
 		loginpage.clickLoginButton();
-		//Assert.assertTrue(false);
+		Assert.assertTrue(false);
 		
 	}
 
